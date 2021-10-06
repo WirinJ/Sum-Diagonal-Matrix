@@ -46,6 +46,3 @@ void main() {
 	}
 	printf("%d * %d * %d * %d = %d", comb[0], comb[1], comb[2], comb[3], bgst);
 }
-
-
-
